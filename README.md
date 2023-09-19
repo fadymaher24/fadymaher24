@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Moving Object Removal**
 
-- 💬 Ask me about **machine learning, MERN,computer vision,Embedded Systems,NLP**
+- 💬 Ask me about **machine learning, MERN, computer vision, Embedded Systems, NLP**
 
 - 📫 How to reach me **fady.maher2024@gmail.com**
 
