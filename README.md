@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-<h1 align="center">Hey 👋, I'm Fady Maher</h1>
+<h1 align="center">Hey 👋 I'm Fady Maher</h1>
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
 
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2F5eKX.gif&f=1&nofb=1&ipt=decebedb12947f8737d59efd5bf15b63c2c253dbc3f4b661ec449983a6eb5618&ipo=images">
