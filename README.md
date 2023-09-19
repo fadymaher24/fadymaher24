@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **IoT**
 
-- 👯 I’m looking to collaborate on **Moving Object Removal**
+- 👯 I’m looking to collaborate on **Smart City Mega Projects**
 
 - 💬 Ask me about **machine learning, MERN, computer vision, Embedded Systems, NLP**
 
