@@ -2,6 +2,7 @@
 <h1 align="center">Hey 👋 I'm Fady Maher</h1>
 <h3 align="center">A passionate AI Engineer from Egypt</h3>
 
+
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2F5eKX.gif&f=1&nofb=1&ipt=decebedb12947f8737d59efd5bf15b63c2c253dbc3f4b661ec449983a6eb5618&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadymaher24&label=Profile%20views&color=0e75b6&style=flat" alt="fadymaher24" /> </p>
