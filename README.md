@@ -30,11 +30,11 @@
 
 
 <p  align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=fadymaher24&locale=en&theme=highcontrast" alt="fadymaher24" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fadymaher24&locale=en&theme=outrun" alt="fadymaher24" />
 </p>
 <p  align="center" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadymaher24&theme=highcontrast" alt="fadymaher24" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadymaher24&theme=tokyonight-duo" alt="fadymaher24" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadymaher24&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="fadymaher24" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fadymaher24&show_icons=true&locale=en&layout=compact&theme=outrun" alt="fadymaher24" />
 </p>
