@@ -35,6 +35,6 @@
 <p  align="center" >
     <img src="https://github-readme-streak-statss-14o2.vercel.app?user=fadymaher24&count_private=true&theme=tokyonight-duo&hide_border=true" alt="fadymaher24" />
 </p>
-<p align="center">
+<!-- <p align="center">
     <img src="https://github-readme-stats-git-main-fadymaher24.vercel.app/api/top-langs?username=fadymaher24&count_private=true&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="fadymaher24" />
-</p>
+</p> -->
