@@ -11,13 +11,13 @@
 
 - 🔭 I’m currently working on [Online Shop Application](https://github.com/fadymaher24/An-online-shop)
 
-- 🌱 I’m currently learning **IoT**
+- 🌱 I’m currently learning **IoT and Backend Development**
 
 - 👯 I’m looking to collaborate on **Smart City Mega Projects**
 
 - 💬 Ask me about **machine learning, MERN, computer vision, Embedded Systems, NLP**
 
-- 📫 How to reach me **fady.maher2024@gmail.com**
+- 📫 How to reach me **fadymaher@ieee.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
