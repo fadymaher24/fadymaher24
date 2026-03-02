@@ -9,15 +9,15 @@
 <a href="https://drive.google.com/file/d/12RDVQn1gsyJ42H3T0nCVDyuY0V3N3lDw/view?usp=sharing" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F140030%2Fisolated%2Fpreview%2F521136d25b37386f49728b93d2e4e6fa-cv-icon-by-vexels.png&f=1&nofb=1&ipt=4db31d80a70f77bc61adeb1d4db721e0668beb106a0daf66e84dc0e9c695014f&ipo=images" alt="CV" height="60" width="55" />My CV</a>
 </p>
 
-- 🔭 I’m currently working on [Online Shop Application](https://github.com/fadymaher24/An-online-shop)
+- 🔭 I’m currently working on [NexusRAG Intelligent Query Routing Context Aware Chatbot](https://github.com/fadymaher24/NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot)
 
-- 🌱 I’m currently learning **IoT and Backend Development**
+- 🌱 I’m currently learning **IoT, Backend Development and AI**
 
 - 👯 I’m looking to collaborate on **Smart City Mega Projects**
 
-- 💬 Ask me about **machine learning, MERN, computer vision, Embedded Systems, NLP**
+- 💬 Ask me about **Machine Learning, RAG Systems, MERN, computer vision, Embedded Systems, NLP**
 
-- 📫 How to reach me **fadymaher@ieee.org**
+- 📫 How to reach me **fady.maher2024@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
