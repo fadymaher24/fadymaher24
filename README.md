@@ -1,41 +1,145 @@
+<div align="center">
+  
 ![MasterHead](https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif)
-<h1 align="center">Hey 👋 I'm Fady Maher</h1>
-<h3 align="center">A passionate AI Engineer from Egypt</h3>
 
+# Hey 👋 I'm Fady Maher
+
+### 🚀 AI Engineer | Full Stack Developer | IoT Enthusiast
+
+[![Profile Views](https://komarev.com/ghpvc/?username=fadymaher24&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/fadymaher24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fadymaher24/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:fady.maher2024@gmail.com)
+[![CV](https://img.shields.io/badge/Download-CV-success?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/14Ncny7Q_WODjIs6iig3UAOikj5vo-pRy/view?usp=sharing)
+
+</div>
+
+---
 
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.gifer.com%2Fembedded%2Fdownload%2F5eKX.gif&f=1&nofb=1&ipt=decebedb12947f8737d59efd5bf15b63c2c253dbc3f4b661ec449983a6eb5618&ipo=images">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fadymaher24&label=Profile%20views&color=0e75b6&style=flat" alt="fadymaher24" /> </p>
-<a href="https://drive.google.com/file/d/12RDVQn1gsyJ42H3T0nCVDyuY0V3N3lDw/view?usp=sharing" target="blank"><img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.vexels.com%2Fmedia%2Fusers%2F3%2F140030%2Fisolated%2Fpreview%2F521136d25b37386f49728b93d2e4e6fa-cv-icon-by-vexels.png&f=1&nofb=1&ipt=4db31d80a70f77bc61adeb1d4db721e0668beb106a0daf66e84dc0e9c695014f&ipo=images" alt="CV" height="60" width="55" />My CV</a>
-</p>
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on [NexusRAG Intelligent Query Routing Context Aware Chatbot](https://github.com/fadymaher24/NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot)
+🔭 **Current Project:** [NexusRAG - Intelligent Query Routing & Context-Aware Chatbot](https://github.com/fadymaher24/NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot)
 
-- 🌱 I’m currently learning **IoT, Backend Development and AI**
+🌱 **Learning Focus:** IoT Systems, Advanced Backend Architecture, Cutting-Edge AI
 
-- 👯 I’m looking to collaborate on **Smart City Mega Projects**
+👯 **Open to Collaborate:** Smart City Mega Projects, AI-Powered Solutions, Embedded Systems
 
-- 💬 Ask me about **Machine Learning, RAG Systems, MERN, computer vision, Embedded Systems, NLP**
+💡 **Expertise Areas:**
 
-- 📫 How to reach me **fady.maher2024@gmail.com**
+- 🤖 Machine Learning & Deep Learning
+- 🧠 RAG Systems & LLM Integration
+- 👁️ Computer Vision & Image Processing
+- 💻 Full Stack Development (MERN Stack)
+- 🔌 Embedded Systems & IoT
+- 📊 Natural Language Processing
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fadymaher24/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fadymaher24/" height="30" width="40" /></a>
-</p>
+📫 **Reach Me:** [fady.maher2024@gmail.com](mailto:fady.maher2024@gmail.com)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br clear="right"/>
 
+<!-- --- -->
 
-<!-- <p  align="center" >
-    <img src="https://github-readme-stats-git-main-fadymaher24.vercel.app/api?username=fadymaher24&count_private=true&locale=en&theme=github_dark&hide_border=true" alt="fadymaher24" />
-    
-</p>
--->
-<p  align="center" >
-    <img src="https://github-readme-streak-statss-14o2.vercel.app?user=fadymaher24&count_private=true&theme=tokyonight-duo&hide_border=true" alt="fadymaher24" />
-</p>
-<!-- <p align="center">
-    <img src="https://github-readme-stats-git-main-fadymaher24.vercel.app/api/top-langs?username=fadymaher24&count_private=true&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="fadymaher24" />
-</p> -->
+<!-- ### 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=fadymaher24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)](https://github.com/fadymaher24)
+
+</div> -->
+
+---
+
+### 💻 Tech Stack & Tools
+
+#### 🤖 AI/ML & Data Science
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 🌐 Web Development
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### 🔧 Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+
+#### ⚡ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fadymaher24&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Fady's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadymaher24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" height="170" />
+</div> -->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fadymaher24&theme=tokyonight&hide_border=true&background=0D1117" alt="Fady's GitHub Streak" />
+</div>
+
+<!-- ---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Fady's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fadymaher24&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/fadymaher24)
+ -->
+<!-- </div> -->
+
+---
+
+### 🎯 Featured Projects
+
+<div align="center">
+
+[![NexusRAG](https://github-readme-stats.vercel.app/api/pin/?username=fadymaher24&repo=NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fadymaher24/NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot)
+
+</div>
+
+---
+
+### 💬 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fadymaher24/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fady.maher2024@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fadymaher24)
+
+</div>
+
+---
+
+<div align="center">
+  
+### ⚡ My Philosophy
+  
+*A driven and collaborative Intelligent Systems Engineer, seeking to innovate and integrate cutting-edge solutions that merge Artificial Intelligence with real-world applications. Committed to continuous improvement, design, implementation, and configuration of intelligent systems that enhance synergy between AI and reality.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
