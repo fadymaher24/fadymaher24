@@ -9,7 +9,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=fadymaher24&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/fadymaher24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fadymaher24/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:fady.maher2024@gmail.com)
-[![CV](https://img.shields.io/badge/Download-CV-success?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/14Ncny7Q_WODjIs6iig3UAOikj5vo-pRy/view?usp=sharing)
+[![CV](https://img.shields.io/badge/Download-CV-success?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1PRutlysV1C3BrNizJvMtqcuugwZ2Hjaa/view?usp=sharing)
 
 </div>
 
@@ -76,7 +76,6 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 #### ⚡ Tools & Platforms
