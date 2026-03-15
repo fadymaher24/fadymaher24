@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-🔭 **Current Project:** [Mini Rag](https://github.com/fadymaher24/mini-RAG)
+🔭 **Current Project:** [Mini RAG](https://github.com/fadymaher24/mini-RAG)
 
 🌱 **Learning Focus:** IoT Systems, Advanced Backend Architecture, Cutting-Edge AI
 
