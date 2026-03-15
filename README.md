@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-🔭 **Current Project:** [NexusRAG - Intelligent Query Routing & Context-Aware Chatbot](https://github.com/fadymaher24/NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot)
+🔭 **Current Project:** [Mini Rag](https://github.com/fadymaher24/mini-RAG)
 
 🌱 **Learning Focus:** IoT Systems, Advanced Backend Architecture, Cutting-Edge AI
 
@@ -115,7 +115,7 @@
 
 <div align="center">
 
-[![NexusRAG](https://github-readme-stats.vercel.app/api/pin/?username=fadymaher24&repo=NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fadymaher24/NexusRAG-Intelligent-Query-Routing-Context-Aware-Chatbot)
+[![miniRag](https://github-readme-stats.vercel.app/api/pin/?username=fadymaher24&repo=mini-RAG&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/fadymaher24/mini-RAG)
 
 </div>
 
