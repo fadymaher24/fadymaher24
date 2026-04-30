@@ -30,7 +30,7 @@
 - 🤖 Machine Learning & Deep Learning
 - 🧠 RAG Systems & LLM Integration
 - 👁️ Computer Vision & Image Processing
-- 💻 Full Stack Development (MERN Stack)
+- 💻 Backend Development (MERN Stack - FastAPI)
 - 🔌 Embedded Systems & IoT
 - 📊 Natural Language Processing
 
