@@ -4,7 +4,7 @@
 
 # Hey 👋 I'm Fady Maher
 
-### 🚀 AI Engineer | Full Stack Developer | IoT Enthusiast
+### AI Engineer | Backend Developer | IoT Enthusiast
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fadymaher24&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/fadymaher24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/fadymaher24/)
